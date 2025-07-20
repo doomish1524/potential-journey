@@ -1960,3 +1960,7 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20Jul2025 06:34:33.250] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=880, y=-41, z=278}
 [20Jul2025 06:35:33.021] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:blasting in 245.8 μs. 233/233 recipes are parallelized.
 [20Jul2025 06:53:37.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3737, l='ServerLevel[world]', x=686.50, y=113.24, z=-852.24] died: Honeyed Archer burned to death
+[20Jul2025 07:04:53.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 was slain by Zombie
+[20Jul2025 07:04:53.782] [Server thread/INFO] [tombstone/]: The player Fimo0 has successfully been saved
+[20Jul2025 07:04:55.430] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 07:06:41.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7678, l='ServerLevel[world]', x=615.16, y=109.67, z=80.16] died: Honeyed Archer burned to death
