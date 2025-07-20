@@ -1959,3 +1959,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20Jul2025 06:34:33.249] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=880, y=-41, z=279}
 [20Jul2025 06:34:33.250] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=880, y=-41, z=278}
 [20Jul2025 06:35:33.021] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:blasting in 245.8 μs. 233/233 recipes are parallelized.
+[20Jul2025 06:53:37.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3737, l='ServerLevel[world]', x=686.50, y=113.24, z=-852.24] died: Honeyed Archer burned to death
