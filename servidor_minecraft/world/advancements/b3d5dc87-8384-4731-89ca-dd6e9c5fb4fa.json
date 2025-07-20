@@ -14204,9 +14204,21 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-07-20 07:31:56 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-07-20 07:19:04 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-07-20 07:31:56 +0000"
     },
     "done": true
   },
@@ -14216,9 +14228,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-07-20 07:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-20 07:31:56 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
     "criteria": {
       "has_graphite_ingot": "2025-07-20 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-20 07:31:56 +0000"
     },
     "done": true
   },
@@ -14234,9 +14264,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-07-20 07:31:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-07-20 07:10:01 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-07-20 07:31:56 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-07-20 07:31:56 +0000"
     },
     "done": true
   },
