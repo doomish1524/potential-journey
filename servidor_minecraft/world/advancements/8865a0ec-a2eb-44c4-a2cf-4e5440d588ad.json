@@ -14892,9 +14892,21 @@
     },
     "done": true
   },
+  "bigreactors:recipes/building_blocks/reprocessor/collector": {
+    "criteria": {
+      "has_item2": "2025-07-20 07:17:11 +0000"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-07-20 06:34:02 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-07-20 07:17:11 +0000"
     },
     "done": true
   },
@@ -14907,6 +14919,18 @@
   "create:recipes/misc/crafting/appliances/filter_clear": {
     "criteria": {
       "has_item": "2025-07-20 06:38:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-07-20 07:17:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-07-20 07:17:11 +0000"
     },
     "done": true
   },

@@ -1964,3 +1964,5 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20Jul2025 07:04:53.782] [Server thread/INFO] [tombstone/]: The player Fimo0 has successfully been saved
 [20Jul2025 07:04:55.430] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20Jul2025 07:06:41.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7678, l='ServerLevel[world]', x=615.16, y=109.67, z=80.16] died: Honeyed Archer burned to death
+[20Jul2025 07:19:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Tunnel Treasures]
+[20Jul2025 07:19:04.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
