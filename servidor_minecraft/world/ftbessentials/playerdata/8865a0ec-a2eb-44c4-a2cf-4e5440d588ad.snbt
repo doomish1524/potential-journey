@@ -1,0 +1,13 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: 735, y: 74, z: -732, time: 1752993014142L, xRot: 41.550415f, yRot: 90.54761f }
+	recording: "none"
+	teleport_history: [ ]
+	homes: {
+		"pepe casa": { dim: "minecraft:overworld", x: 713, y: 74, z: -711, time: 1752896488063L, xRot: 12.300319f, yRot: -101.10635f }
+	}
+	kit_use_times: { }
+}
