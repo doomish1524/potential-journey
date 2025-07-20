@@ -1966,3 +1966,8 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20Jul2025 07:06:41.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7678, l='ServerLevel[world]', x=615.16, y=109.67, z=80.16] died: Honeyed Archer burned to death
 [20Jul2025 07:19:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fimo0 has made the advancement [Tunnel Treasures]
 [20Jul2025 07:19:04.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[20Jul2025 07:21:44.242] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20Jul2025 07:21:44.242] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Jul2025 07:27:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepenson got cut in half by a Mechanical Saw
+[20Jul2025 07:27:52.671] [Server thread/INFO] [tombstone/]: The player Pepenson has successfully been saved
+[20Jul2025 07:27:54.138] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

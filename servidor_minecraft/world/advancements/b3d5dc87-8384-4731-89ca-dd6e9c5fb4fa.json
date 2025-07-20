@@ -3214,7 +3214,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-18 20:25:09 +0000",
-      "opened_chest": "2025-07-18 19:15:31 +0000"
+      "opened_chest": "2025-07-18 19:15:31 +0000",
+      "opened_cart": "2025-07-20 07:19:04 +0000"
     },
     "done": false
   },
@@ -14203,9 +14204,33 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-20 07:19:04 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/casing": {
+    "criteria": {
+      "has_item": "2025-07-20 07:27:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
+    "criteria": {
+      "has_graphite_ingot": "2025-07-20 07:27:16 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-07-20 06:48:15 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/crafting/graphite_component_to_storage": {
+    "criteria": {
+      "has_item": "2025-07-20 07:27:16 +0000"
     },
     "done": true
   },
