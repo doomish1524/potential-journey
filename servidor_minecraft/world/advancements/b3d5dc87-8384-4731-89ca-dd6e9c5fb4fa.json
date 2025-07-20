@@ -14258,6 +14258,12 @@
     },
     "done": true
   },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-07-20 07:39:15 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/misc/crafting/graphite_component_to_storage": {
     "criteria": {
       "has_item": "2025-07-20 07:27:16 +0000"

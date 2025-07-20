@@ -14910,6 +14910,12 @@
     },
     "done": true
   },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-07-20 07:38:58 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-07-20 06:43:56 +0000"

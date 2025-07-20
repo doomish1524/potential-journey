@@ -1,29 +1,29 @@
-[06:27:44] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[06:27:44] [INIT] Loaded plugins:
-[06:27:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[06:27:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[06:27:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[06:27:44] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[06:27:44] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[06:27:44] [INIT] - com.almostreliable.morejs.Plugin
-[06:27:44] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[06:27:44] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[06:27:44] [INFO] read_json_from_mod.js#5: Loaded Java class 'net.minecraftforge.resource.ResourcePackLoader'
-[06:27:44] [INFO] read_json_from_mod.js#8: Loaded Java class 'java.util.stream.Collectors'
-[06:27:45] [INFO] read_json_from_mod.js#9: Loaded Java class 'net.minecraft.server.packs.repository.ServerPacksSource'
-[06:27:45] [INFO] read_json_from_mod.js#10: Loaded Java class 'net.minecraft.server.packs.resources.FallbackResourceManager'
-[06:27:45] [INFO] Loaded script startup_scripts:read_json_from_mod.js in 0.211 s
-[06:27:45] [INFO] Loaded script startup_scripts:custom_additions.js in 0.013 s
-[06:27:45] [INFO] Loaded script startup_scripts:AE2/Universal_Press.js in 0.001 s
-[06:27:45] [INFO] Loaded script startup_scripts:worldgen.js in 0.0 s
-[06:27:45] [INFO] Loaded script startup_scripts:settings.js in 0.005 s
-[06:27:45] [INFO] farmingForBlockheads.js#11: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[06:27:45] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.006 s
-[06:27:45] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
-[06:27:45] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
-[06:27:45] [INFO] mekanismStartup.js#20: Loaded Java class 'mekanism.api.chemical.gas.Gas'
-[06:27:45] [INFO] mekanismStartup.js#21: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
-[06:27:45] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.008 s
-[06:27:45] [INFO] mysticalagriculture.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
-[06:27:45] [INFO] Loaded script startup_scripts:mysticalagriculture.js in 0.004 s
-[06:27:45] [INFO] Loaded 8/8 KubeJS startup scripts in 0.676 s with 0 errors and 0 warnings
+[16:55:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:55:33] [INIT] Loaded plugins:
+[16:55:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:55:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:55:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[16:55:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:55:33] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[16:55:33] [INIT] - com.almostreliable.morejs.Plugin
+[16:55:33] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[16:55:33] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[16:55:34] [INFO] read_json_from_mod.js#5: Loaded Java class 'net.minecraftforge.resource.ResourcePackLoader'
+[16:55:34] [INFO] read_json_from_mod.js#8: Loaded Java class 'java.util.stream.Collectors'
+[16:55:34] [INFO] read_json_from_mod.js#9: Loaded Java class 'net.minecraft.server.packs.repository.ServerPacksSource'
+[16:55:34] [INFO] read_json_from_mod.js#10: Loaded Java class 'net.minecraft.server.packs.resources.FallbackResourceManager'
+[16:55:34] [INFO] Loaded script startup_scripts:read_json_from_mod.js in 0.159 s
+[16:55:34] [INFO] Loaded script startup_scripts:custom_additions.js in 0.011 s
+[16:55:34] [INFO] Loaded script startup_scripts:AE2/Universal_Press.js in 0.0 s
+[16:55:34] [INFO] Loaded script startup_scripts:worldgen.js in 0.001 s
+[16:55:34] [INFO] Loaded script startup_scripts:settings.js in 0.005 s
+[16:55:34] [INFO] farmingForBlockheads.js#11: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[16:55:34] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.009 s
+[16:55:34] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[16:55:34] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[16:55:34] [INFO] mekanismStartup.js#20: Loaded Java class 'mekanism.api.chemical.gas.Gas'
+[16:55:34] [INFO] mekanismStartup.js#21: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
+[16:55:34] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.015 s
+[16:55:34] [INFO] mysticalagriculture.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
+[16:55:34] [INFO] Loaded script startup_scripts:mysticalagriculture.js in 0.007 s
+[16:55:34] [INFO] Loaded 8/8 KubeJS startup scripts in 0.715 s with 0 errors and 0 warnings
